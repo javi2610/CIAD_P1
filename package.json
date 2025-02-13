@@ -1,0 +1,22 @@
+{
+  "name": "practica-1",
+  "version": "1.0.0",
+  "description": "Practica 1 de CIAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Otero Vizoso",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "inquirer": "^8.2.6"
+  }
+}
